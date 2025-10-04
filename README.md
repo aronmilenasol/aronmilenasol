@@ -1,6 +1,5 @@
 # :milky_way: Hi! I'm Milena
 - 🎓 Studying **Computer Science** at [University of the People](https://www.uopeople.edu/)
-- :pencil2: Transitioning into **DevOps** and **Site Reliability Engineering** from **Software Development**.
 - 🔧 Working as as **Full Stack Developer and DevOps** at *vWave eCommerce GmbH*
 - 🐧 Daily **GNU/Linux** user since 2015.
 
