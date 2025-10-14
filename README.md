@@ -18,5 +18,3 @@
 
 - 🌸 [**Portfolio + Tech Blog**](https://milenasaron.vercel.app/)
 - 🖥️ [**Homelab**](https://github.com/aronmilenait/homelab)
-- 📊 [**System Monitor**](https://github.com/milenasaron/system-monitor)
-- 🌐 [**CarreraIT**](https://www.carrerait.lat)
