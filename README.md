@@ -1,11 +1,6 @@
 # :milky_way: Hi! I'm Milena
-- 🎓 Studying **Computer Science** at [University of the People](https://www.uopeople.edu/)
-- 🔧 Working as as **Full Stack Developer and DevOps** at *vWave eCommerce GmbH*
+- 🔧 Working as as **Full Stack Developer & DevOps** at *vWave eCommerce GmbH*
 - 🐧 Daily **GNU/Linux** user since 2015.
-
-## :thought_balloon: A little bit about me
-- :heart: Linux, DevOps and Site Realibility Engineering are my biggest passions, but I also love Software Development.
-- :dizzy: Besides IT, some of my interests and hobbies are aviation, astronomy, and writting. 
 
 ### Operating Systems I Work With
 <p align="left">
