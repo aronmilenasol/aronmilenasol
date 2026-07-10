@@ -1,5 +1,6 @@
 # :milky_way: Hi! I'm Milena
-- 🔧 Working as as **Full Stack Developer & DevOps** at *vWave eCommerce GmbH*
+## DevOps & Site Reliability Engineer | Software Developer | Writer
+- 🔧 Working as as **Full Stack Developer & DevOps/SRE** at *vWave eCommerce GmbH*
 - 🐧 Daily **GNU/Linux** user since 2015.
 
 ### Operating Systems I Work With
@@ -11,5 +12,5 @@
 
 ## 🛠️ Relevant Projects
 
-- 🌸 [**Portfolio + Tech Blog**](https://milenasaron.vercel.app/)
+- 🌸 [**Portfolio + Tech Blog**](https://milenasolaron.vercel.app/)
 - 🖥️ [**Homelab**](https://github.com/aronmilenait/homelab)
