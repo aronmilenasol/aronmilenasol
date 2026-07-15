@@ -12,5 +12,5 @@
 
 ## 🛠️ Relevant Projects
 
-- 🌸 [**Portfolio + Tech Blog**](https://milenasolaron.vercel.app/)
+- 🌸 [**Portfolio + Tech Blog**](https://www.milenasolaron.com.ar/en)
 - 🖥️ [**Homelab**](https://github.com/aronmilenait/homelab)
